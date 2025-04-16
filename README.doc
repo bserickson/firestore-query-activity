@@ -1,0 +1,14 @@
+# Firestore Query Activity
+
+## Live App
+[https://firestore-query-activity-d74bc.web.app](https://firestore-query-activity-d74bc.web.app)
+
+## Summary
+A web app for storing and querying soccer team data using Firebase Firestore.
+
+## Tasks Completed
+- Added 7 teams
+- Ran 9 queries using compound filters
+- Updated primitive fields and arrays
+- Added and updated nested jersey color fields
+- Displayed results in browser
