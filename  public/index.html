@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Firestore Soccer Teams</title>
+    <title>Soccer Teams Firestore App</title>
   </head>
   <body>
     <h1>Soccer Teams Firestore App</h1>
@@ -246,6 +246,14 @@
         });
         alert("Jersey colors updated.");
       }
+
+      // ✅ Make functions globally available to the HTML
+      window.addTeams = addTeams;
+      window.runAllQueries = runAllQueries;
+      window.updateTeamBasics = updateTeamBasics;
+      window.updateTopScorers = updateTopScorers;
+      window.addJerseyColors = addJerseyColors;
+      window.updateJerseyColors = updateJerseyColors;
     </script>
   </body>
 </html>
