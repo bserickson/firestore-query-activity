@@ -1,0 +1,8 @@
+GitHub Repository: https://github.com/bserickson/firestore-query-activity
+Live Hosting URL: https://firestore-query-activity-d74bc.web.app
+
+Team Member:
+- Ben Erickson
+
+Project Description:
+This web app stores and queries Firestore data on global soccer teams using Firebase SDK. It supports creation, updates, queries by condition, and displays results directly in the browser using real-time Firebase database features.
